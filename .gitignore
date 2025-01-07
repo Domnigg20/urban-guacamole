@@ -1,0 +1,8 @@
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore specific exercise files
+exercise1
+exercise1b
+exercise1b.c
+exercise2
