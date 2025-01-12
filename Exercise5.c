@@ -9,15 +9,6 @@ elements of an array-of-double. Test the function in a simple program.
 #include <time.h>   // for time
 #define SIZE 15
 
-//define function
-
-//Int main
-
-
-//function implementation
-
-
-//return difference
 
 
 
